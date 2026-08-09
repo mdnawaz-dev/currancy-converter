@@ -56,7 +56,7 @@ Open `index.html` in your browser — no installation or build steps needed.
 
 ## 🔗 More Projects
 
-Check out my other work: [github.com/nawaz76158-maker](https://github.com/nawaz76158-maker)
+Check out my other work: [github.com/mdnawaz-dev](https://github.com/mdnawaz-dev)
 
 ---
 *Built as part of my JavaScript practice.*
