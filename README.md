@@ -39,7 +39,7 @@ Currency-Converter/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/nawaz76158-maker/Currency-Converter.git
+git clone https://github.com/mdnawaz-dev/Currency-Converter.git
 cd Currency-Converter
 ```
 
